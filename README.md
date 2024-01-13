@@ -7,5 +7,3 @@ It's portable on Ubuntu. Copy to opt folder or other place where you want.
 ./pulseview.sh
 
 ./pulseview.sh sipeed
-
-./pulseview.sh dslogic
